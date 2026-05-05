@@ -124,13 +124,5 @@ Your AEs close deals they would have walked away from before. Your delivery team
 
 ---
 
-## Next steps
-
-1. **Intro call** — Eli + Sushumna, 30 min, scope the partnership shape
-2. **MSA / sub-contractor agreement** — we have templates ready
-3. **First engagement** — pick a live opportunity to test the working relationship
-
----
-
 **Eli Kiedrowski** · CEO & Principal Architect, CRM Wizards
 [crmwizards.com](https://www.thecrmwizards.com) · Built in Colorado
