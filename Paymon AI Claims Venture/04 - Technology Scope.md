@@ -1,6 +1,6 @@
 # Technology Scope
 
-> Owner: **Eli** (lead) + **Naggie** (technical execution).
+> Owner: **Eli** (lead) + **Nagy** (technical execution).
 
 This document captures the full technical surface area of the product as discussed May 8. Phase 1 feasibility study won't tackle all of it — it will validate the riskiest pieces. The remainder is architecture context for the eventual build.
 
@@ -133,7 +133,7 @@ This document captures the full technical surface area of the product as discuss
 ### Stack thoughts (for Phase 1 prototype only — not a long-term commit)
 - LLM: compare Claude / OpenAI / Gemini on the same anonymized policy set; pick the best extraction + citation behavior, not the brand
 - Vector store: Pinecone / pgvector for policy clause retrieval
-- App: whatever lets Naggie ship fastest — Next.js + Supabase or similar
+- App: whatever lets Nagy ship fastest — Next.js + Supabase or similar
 - Avoid premature investment in production infra during feasibility
 
 ## Existing assets we can leverage

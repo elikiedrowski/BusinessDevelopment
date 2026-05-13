@@ -1,6 +1,6 @@
 # Feasibility Study Plan (Phase 1)
 
-> Owner: **Eli + Naggie**. Output is the deliverable for the next Paymon review meeting.
+> Owner: **Eli + Nagy**. Output is the deliverable for the next Paymon review meeting.
 
 ## Goal
 
@@ -33,7 +33,7 @@ If we can answer those four questions, Phase 2 (business structuring + investmen
 
 **Deliverable:** Prototype + accuracy report + qualitative writeup on failure modes.
 
-**Estimated effort:** 1–2 weekends of Naggie's time + Eli review, assuming policies are supplied cleanly and anonymized up front.
+**Estimated effort:** 1–2 weekends of Nagy's time + Eli review, assuming policies are supplied cleanly and anonymized up front.
 
 ### Workstream B — Regulatory landscape research
 
@@ -91,7 +91,7 @@ Other claim types (water damage, fire, hail) come after this is proven.
 
 ## Cadence
 
-- Weekly check-in between Eli and Naggie during the study
+- Weekly check-in between Eli and Nagy during the study
 - Bi-weekly read-out to Paymon and Lauren
 - Whole-group review at the end of Phase 1 to decide on Phase 2 commitment
 

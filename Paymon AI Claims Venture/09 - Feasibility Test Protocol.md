@@ -1,6 +1,6 @@
 # Feasibility Test Protocol
 
-This is the tactical test plan for Phase 1. It converts the feasibility study into concrete experiments Eli and Naggie can run.
+This is the tactical test plan for Phase 1. It converts the feasibility study into concrete experiments Eli and Nagy can run.
 
 ## Test 1 — Policy extraction with citations
 

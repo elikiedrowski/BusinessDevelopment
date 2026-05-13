@@ -21,20 +21,20 @@ The team decided to initiate a technical feasibility study to be led by their te
 
 ### NEEDS FURTHER DISCUSSION
 
-- **Partnership structure regarding Naggie** — The team identified the need to determine the formal inclusion and partnership structure for Naggie, agreeing to revisit this topic for further consideration after internal discussion.
+- **Partnership structure regarding Nagy** — The team identified the need to determine the formal inclusion and partnership structure for Nagy, agreeing to revisit this topic for further consideration after internal discussion.
 
 ### ALIGNED
 
 - **AI insurance venture strategy established** — The group aligned to pursue a partnership to develop an AI-driven insurance claims platform, agreeing to a recurring meeting cadence and a phased strategy: product scoping, business modeling, and launch planning before commencing any actual product development.
-- **Naggie incentivization strategy established** — The team aligned on the strategy to provide Naggie with equity or ownership to incentivize his technical contributions to the product.
+- **Nagy incentivization strategy established** — The team aligned on the strategy to provide Nagy with equity or ownership to incentivize his technical contributions to the product.
 - **Phased project roadmap established** — The group agreed to adopt a three-phase project approach, beginning with a technical feasibility study, followed by business structuring, and concluding with defining roles for the product launch.
 
 ## Next steps
 
-- **[Eli, Lauren, Naggie]** Define Scope: Prepare initial product definition, scoping time, materials, and effort required.
+- **[Eli, Lauren, Nagy]** Define Scope: Prepare initial product definition, scoping time, materials, and effort required.
 - **[Eli, Paymon, Lauren]** Review Scope: Meet to review initial product scope, discuss investment, and establish the business model partnership.
-- **[Eli, Lauren]** Define Partner Role: Determine Naggie's specific role and compensation structure within the partnership.
-- **[Lauren]** Define Compensation: Define Naggie compensation structure. Determine equity stakes or alternative payment methods.
+- **[Eli, Lauren]** Define Partner Role: Determine Nagy's specific role and compensation structure within the partnership.
+- **[Lauren]** Define Compensation: Define Nagy compensation structure. Determine equity stakes or alternative payment methods.
 - **[Eli, Paymon]** Complete Research: Perform internal work related to project questions and technical components.
 - **[Eli]** Schedule Meeting: Send email to schedule the next meeting for late next week. Establish a regular meeting cadence.
 
@@ -58,6 +58,6 @@ References are timestamps from the recorded transcript.
 - **00:40:43** — AI must translate complex policy language into simple prompts and steps.
 - **00:45:12** — Matterport scans (~$250) for professional damage estimates.
 - **00:50:18** — Operating mode: nights and weekends until proof-of-concept.
-- **00:58:13** — Eli: Naggie should have ownership/skin in the game.
-- **00:58:54** — Lauren outlined Phase 1: technical feasibility study, Naggie compensated under existing CRM Wizards agreement during this period.
+- **00:58:13** — Eli: Nagy should have ownership/skin in the game.
+- **00:58:54** — Lauren outlined Phase 1: technical feasibility study, Nagy compensated under existing CRM Wizards agreement during this period.
 - **01:00:40** — Next meeting late week of May 11; Eli to schedule.

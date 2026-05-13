@@ -1,6 +1,6 @@
-# Naggie Technical Brief
+# Nagy Technical Brief
 
-Purpose: give Naggie a clean technical starting point for Phase 1 without asking him to digest the full meeting transcript.
+Purpose: give Nagy a clean technical starting point for Phase 1 without asking him to digest the full meeting transcript.
 
 ## What we're testing
 

@@ -10,7 +10,7 @@ The summary correctly identifies:
 - A disruptive AI-assisted insurance claim platform
 - B2B lead generation as the preferred monetization path
 - Technical feasibility as the next phase
-- Naggie's role / compensation as an unresolved topic
+- Nagy's role / compensation as an unresolved topic
 - The phased roadmap: feasibility, business structuring, launch roles
 
 ## What Gemini got right
@@ -18,7 +18,7 @@ The summary correctly identifies:
 - The team aligned on exploring a real partnership, not just brainstorming.
 - The consumer product should be free or low-cost and should help homeowners handle their own claims.
 - Revenue should come primarily from high-intent B2B leads, especially attorneys and contractors.
-- Naggie is expected to be technically important and needs meaningful incentive alignment.
+- Nagy is expected to be technically important and needs meaningful incentive alignment.
 - The group agreed to keep a regular cadence and schedule the next meeting late the following week.
 
 ## What Gemini underplayed
@@ -31,9 +31,9 @@ The summary correctly identifies:
 
 ## What Gemini may overstate
 
-- **"Led by their technical architect"** — The discussion positioned Naggie as the lead technical brain, but the feasibility work is really Eli + Naggie under the CRM Wizards umbrella.
+- **"Led by their technical architect"** — The discussion positioned Nagy as the lead technical brain, but the feasibility work is really Eli + Nagy under the CRM Wizards umbrella.
 - **"Professional firms" as a generic revenue source** — The real B2B buyers discussed were more specific: attorneys, roofers, HVAC, drywall / contractors, and possibly PAs as fallback.
-- **"Business model partnership established"** — The partnership intent is aligned, but the structure is not established. Equity, investment, IP, Naggie's role, and decision rights are still open.
+- **"Business model partnership established"** — The partnership intent is aligned, but the structure is not established. Equity, investment, IP, Nagy's role, and decision rights are still open.
 
 ## Corrections to preserve
 

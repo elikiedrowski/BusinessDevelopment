@@ -19,8 +19,8 @@ A running list of unresolved items across all segments. Update as items get answ
 
 - **Equity split among Paymon / Eli / Lauren?** Open. Drives every other partnership conversation.
 - **What does Paymon's contribution look like financially?** Cash investment, marketing-spend commitment, sweat equity, or a mix?
-- **IP ownership during Phase 1** — does Naggie's work flow through CRM Wizards or directly into the new entity? Affects how the work is structured.
-- **Naggie equity structure** — international contractor complications. Lauren's action item.
+- **IP ownership during Phase 1** — does Nagy's work flow through CRM Wizards or directly into the new entity? Affects how the work is structured.
+- **Nagy equity structure** — international contractor complications. Lauren's action item.
 - **Decision-making authority** — tie-breakers, who has final call on what?
 
 ## Technology
@@ -48,5 +48,5 @@ A running list of unresolved items across all segments. Update as items get answ
 
 From the meeting decisions section, in writing:
 
-- **Naggie partnership structure** — decided to revisit after internal discussion (NEEDS FURTHER DISCUSSION)
-- **Naggie compensation structure** — Lauren's action item; equity vs. contractor TBD
+- **Nagy partnership structure** — decided to revisit after internal discussion (NEEDS FURTHER DISCUSSION)
+- **Nagy compensation structure** — Lauren's action item; equity vs. contractor TBD

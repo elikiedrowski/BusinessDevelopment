@@ -25,7 +25,7 @@ Leave with enough clarity to start the technical feasibility study and schedule 
    - 2-3 hours for playbook capture
    - Shortlist of launch partner conversations
 
-4. Discuss Naggie involvement
+4. Discuss Nagy involvement
    - Confirm feasibility role
    - Confirm near-term compensation path under CRM Wizards
    - Defer long-term equity details unless needed to unblock work
@@ -37,7 +37,7 @@ Leave with enough clarity to start the technical feasibility study and schedule 
    - MVP scope and effort estimate
 
 6. Set cadence
-   - Eli + Naggie working cadence
+   - Eli + Nagy working cadence
    - Paymon playbook session
    - Group readout date
 
