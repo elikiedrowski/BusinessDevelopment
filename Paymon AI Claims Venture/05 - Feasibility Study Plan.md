@@ -1,6 +1,8 @@
 # Feasibility Study Plan (Phase 1)
 
 > Owner: **Eli + Nagy**. Output is the deliverable for the next Paymon review meeting.
+>
+> **Status:** Original Phase 1 plan (~6-week version). The current authoritative Phase 1 sprint is the **4-week compressed sprint** in [15 - Software Build Plan.md § Phase 1](15%20-%20Software%20Build%20Plan.md#phase-1--compressed-feasibility-sprint-weeks-14-target-may-20june-16-2026). This doc still has useful workstream detail (especially Workstream D — MVP scope) that isn't fully restated in 15.
 
 ## Goal
 

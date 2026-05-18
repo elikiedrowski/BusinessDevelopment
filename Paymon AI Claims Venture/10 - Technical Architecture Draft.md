@@ -1,5 +1,7 @@
 # Technical Architecture Draft
 
+> **Status:** Original architecture sketch. The current authoritative architecture overview is in [15 - Software Build Plan.md § Architecture overview](15%20-%20Software%20Build%20Plan.md). This doc retains useful data-object schemas (Policy, Claim, Evidence item, Partner lead) that supplement 15 — Nagy should reference both when starting the prototype.
+
 Early architecture sketch for feasibility. This is not a production commitment.
 
 ## Guiding principle

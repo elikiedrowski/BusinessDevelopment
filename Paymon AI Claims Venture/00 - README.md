@@ -8,25 +8,34 @@ Source meeting: **May 8, 2026 — Paymon:Eli Next Steps** (Eli + Lauren + Paymon
 
 | File | Purpose | Owner |
 |---|---|---|
+### Foundation (strategic, slow-changing)
+| File | Purpose | Owner |
+|---|---|---|
 | [01 - Strategic Context.md](01%20-%20Strategic%20Context.md) | Industry, Bo's "Turboax", market gap, differentiation | All |
 | [02 - Business Model.md](02%20-%20Business%20Model.md) | Consumer pricing, B2B lead-gen revenue, marketing | Paymon / Lauren |
 | [03 - Partnership and Operations.md](03%20-%20Partnership%20and%20Operations.md) | Roles, equity, Nagy comp, cadence, phased roadmap | Lauren |
-| [04 - Technology Scope.md](04%20-%20Technology%20Scope.md) | Product architecture, the seven technical components | **Eli** |
-| [05 - Feasibility Study Plan.md](05%20-%20Feasibility%20Study%20Plan.md) | What we deliver in Phase 1, sequencing, success criteria | **Eli + Nagy** |
-| [06 - Open Questions and Risks.md](06%20-%20Open%20Questions%20and%20Risks.md) | Unresolved items across all segments | All |
-| [07 - Gemini Notes Accuracy Review.md](07%20-%20Gemini%20Notes%20Accuracy%20Review.md) | Review of what Gemini captured well vs. missed or overstated | Eli |
-| [08 - Product Requirements.md](08%20-%20Product%20Requirements.md) | Initial v0 product definition and user journey | Eli / Nagy |
-| [09 - Feasibility Test Protocol.md](09%20-%20Feasibility%20Test%20Protocol.md) | Concrete test plan for policy extraction, drafting, regulatory boundary, and lead logic | **Eli + Nagy** |
-| [10 - Technical Architecture Draft.md](10%20-%20Technical%20Architecture%20Draft.md) | Early prototype architecture and data objects | **Nagy** |
-| [11 - Questions for Paymon.md](11%20-%20Questions%20for%20Paymon.md) | Questions to extract Paymon's claims playbook and business assumptions | Paymon / Eli |
-| [12 - Nagy Technical Brief.md](12%20-%20Nagy%20Technical%20Brief.md) | Clean starting brief for Nagy's Phase 1 prototype work | **Nagy** |
-| [13 - Next Meeting Agenda.md](13%20-%20Next%20Meeting%20Agenda.md) | Suggested agenda and decision list for the next group meeting | Eli |
-| [14 - Company Name Candidates.md](14%20-%20Company%20Name%20Candidates.md) | Brand name brainstorm — top 5 + honorable mentions for next-meeting discussion | All |
-| [15 - Software Build Plan.md](15%20-%20Software%20Build%20Plan.md) | Aggressive 2026 hurricane-season roadmap: compressed feasibility, Florida concierge beta, productized MVP, then multi-state scale | **Eli + Nagy** |
-| [16 - Consumer Application Specification.md](16%20-%20Consumer%20Application%20Specification.md) | Consumer claim coach spec, including Florida concierge beta, human review queue, user-controlled document flow, and later mobile expansion | **Eli + Nagy** |
-| [17 - B2B Partner Platform Specification.md](17%20-%20B2B%20Partner%20Platform%20Specification.md) | B2B lead system spec, starting with manual partner routing and internal admin tools before a full partner marketplace | **Eli + Nagy + Paymon** |
-| [18 - Issues to Raise With Paymon.md](18%20-%20Issues%20to%20Raise%20With%20Paymon.md) | Running list of unresolved items, risks, and assumptions to discuss with Paymon — meeting agenda fodder | Eli + Lauren |
 | [Source - Meeting Summary May 8 2026.md](Source%20-%20Meeting%20Summary%20May%208%202026.md) | Captured Gemini summary + decisions + next steps | — |
+
+### Current authoritative build plan
+| File | Purpose | Owner |
+|---|---|---|
+| [15 - Software Build Plan.md](15%20-%20Software%20Build%20Plan.md) | **Master build plan.** Aggressive 2026 hurricane-season roadmap: compressed feasibility, Florida concierge beta, productized MVP, then multi-state scale. FL statutory framework, infrastructure budget, critical path, risks. | **Eli + Nagy** |
+| [16 - Consumer Application Specification.md](16%20-%20Consumer%20Application%20Specification.md) | Consumer claim coach spec: Florida concierge beta, human review queue, user-controlled document flow, carrier estimate parsing, trust/brand plan, later mobile expansion. | **Eli + Nagy** |
+| [17 - B2B Partner Platform Specification.md](17%20-%20B2B%20Partner%20Platform%20Specification.md) | B2B lead system spec: manual partner routing first, internal admin tools, then full partner platform. FL HB 837 / AOB-ban economics and TCPA/FTSA-grade consent. | **Eli + Nagy + Paymon** |
+| [18 - Open Items, Questions, and Issues.md](18%20-%20Open%20Items%2C%20Questions%2C%20and%20Issues.md) | **Working log.** Open questions/risks across the venture (Section A), priority issues for Paymon (Section B), playbook-capture working-session questions (Section C), and May 8 deferred items (Section D). | Eli + Lauren |
+| [13 - Next Meeting Agenda.md](13%20-%20Next%20Meeting%20Agenda.md) | Agenda for next Paymon/Eli/Lauren meeting; references 18 for priority items | Eli |
+| [12 - Nagy Technical Brief.md](12%20-%20Nagy%20Technical%20Brief.md) | Clean starting brief for Nagy's Phase 1 prototype work | **Nagy** |
+| [09 - Feasibility Test Protocol.md](09%20-%20Feasibility%20Test%20Protocol.md) | Concrete test plan for policy extraction, drafting, regulatory boundary, and lead logic | **Eli + Nagy** |
+| [14 - Company Name Candidates.md](14%20-%20Company%20Name%20Candidates.md) | Brand name brainstorm — top 5 + honorable mentions | All |
+
+### Reference / archival (partially superseded but kept for context)
+| File | Purpose | Status |
+|---|---|---|
+| [04 - Technology Scope.md](04%20-%20Technology%20Scope.md) | High-level seven-component overview | Superseded by 15/16/17 for detail; useful as conceptual entry point |
+| [05 - Feasibility Study Plan.md](05%20-%20Feasibility%20Study%20Plan.md) | Original 6-week Phase 1 plan | Superseded by Phase 1 in 15 (4-week compressed); useful for workstream context |
+| [07 - Gemini Notes Accuracy Review.md](07%20-%20Gemini%20Notes%20Accuracy%20Review.md) | One-time review of Gemini meeting notes | Archival |
+| [08 - Product Requirements.md](08%20-%20Product%20Requirements.md) | Initial v0 PRD | Superseded by 16 |
+| [10 - Technical Architecture Draft.md](10%20-%20Technical%20Architecture%20Draft.md) | Original architecture sketch + data schemas | Architecture superseded by 15; data schemas still useful for Nagy |
 
 ## Build roadmap status
 

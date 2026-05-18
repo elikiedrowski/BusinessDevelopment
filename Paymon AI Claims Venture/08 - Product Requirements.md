@@ -1,5 +1,7 @@
 # Product Requirements
 
+> **Status:** Initial v0 PRD. Mostly superseded by [16 - Consumer Application Specification.md](16%20-%20Consumer%20Application%20Specification.md) which is the current authoritative consumer-app spec with detailed user journey, feature inventory by phase, Florida-specific behaviors, and trust/brand plan. Kept for archival reference.
+
 Working v0 product definition for the consumer-facing insurance claim assistant. This is intentionally scoped to support the Phase 1 feasibility study, not the full company vision.
 
 ## Product thesis

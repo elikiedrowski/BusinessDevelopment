@@ -1,6 +1,8 @@
 # Technology Scope
 
 > Owner: **Eli** (lead) + **Nagy** (technical execution).
+>
+> **Status:** This doc is the conceptual surface-area overview (seven components). For the current authoritative build plan, timeline, architecture, and stack decisions see [15 - Software Build Plan.md](15%20-%20Software%20Build%20Plan.md). For consumer front-end detail see [16 - Consumer Application Specification.md](16%20-%20Consumer%20Application%20Specification.md). For B2B platform detail see [17 - B2B Partner Platform Specification.md](17%20-%20B2B%20Partner%20Platform%20Specification.md).
 
 This document captures the full technical surface area of the product as discussed May 8. Phase 1 feasibility study won't tackle all of it — it will validate the riskiest pieces. The remainder is architecture context for the eventual build.
 

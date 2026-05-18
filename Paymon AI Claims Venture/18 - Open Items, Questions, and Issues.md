@@ -1,10 +1,71 @@
-# Issues to Raise With Paymon
+# Open Items, Questions, and Issues — Working Log
 
-> Purpose: A working list of unresolved items, risks, and assumptions that depend on Paymon. Use as a meeting agenda or to brief Lauren before the next call.
+> Consolidates the prior 06 (Open Questions & Risks), 11 (Questions for Paymon), and 18 (Issues to Raise With Paymon) into a single working log. Update items as they get resolved or new ones emerge.
 
-These are not gotchas. They are things Eli and Lauren need to know about before committing to an aggressive August 1, 2026 launch, and most of them only Paymon can answer. Sequence them by priority when you next meet.
+## How to use this doc
+
+- **Section A — Open questions and risks across the venture.** General running list; review periodically.
+- **Section B — Priority issues to raise with Paymon.** Founder-level meeting agenda fodder, organized by priority.
+- **Section C — Playbook-capture working-session questions.** Interview questions for working sessions when you need Paymon's domain expertise encoded into the product.
+- **Section D — Items deferred from May 8.** Carryover from the May 8 meeting decisions.
+
+When an item gets resolved, either move it to a "Resolved" subsection at the bottom or strike it through with the date. Don't delete — the history is useful.
 
 ---
+
+# Section A — Open questions and risks across the venture
+
+A running list of unresolved items spanning strategy, business model, partnership, technology, regulatory, and operations. When an item is specifically Paymon-dependent, the cross-reference points to its detailed treatment in Section B.
+
+## Strategic / competitive
+
+- **What's Bo's actual launch timeline for Turboax?** Worth pinging Valerie (carefully, given Eli's relationship there) to triangulate. (See Section B §5.1)
+- **Could the insurance industry try to acquire and shelf this?** Paymon's threat call-out. Affects capitalization choices and long-term governance.
+- **Is the disruptive framing defensible against a well-funded fast-follower?** Or is the moat really just Paymon's relationships + encoded playbook?
+
+## Business model
+
+- **What's the realistic CAC during peak disaster events?** Paymon has historical Noble numbers — get them. (See Section B §3.2)
+- **What's the take rate B2B partners will accept?** Need a few real conversations with attorneys and roofers, not assumptions. (See Section B §4.1, §4.2)
+- **What % of users actually convert to a B2B referral?** Drives whether free-to-consumer math actually works.
+- **Is a small consumer fee ($50–$200) better than fully free?** Filters tire-kickers, generates float, but adds a conversion barrier.
+
+## Partnership
+
+- **Equity split among Paymon / Eli / Lauren?** Open. Drives every other partnership conversation. (See Section B §3.3)
+- **What does Paymon's contribution look like financially?** Cash investment, marketing-spend commitment, sweat equity, or a mix? (See Section B §3.1)
+- **IP ownership during Phase 1** — does Nagy's work flow through CRM Wizards or directly into the new entity? Affects how the work is structured.
+- **Nagy equity structure** — international contractor complications. Lauren's action item.
+- **Decision-making authority** — tie-breakers, who has final call on what? (See Section B §3.4)
+
+## Technology
+
+- **Can frontier LLMs hit ≥95% extraction accuracy on real policies with valid citations?** The single biggest unknown. Phase 1 Workstream A answers it.
+- **Which model — Claude vs. GPT-5 vs. Gemini?** Probably doesn't matter for feasibility, will matter for production cost.
+- **OCR quality on scanned-image policies?** Many homeowners only have a scanned PDF, not a digital one.
+- **Vision model accuracy on damage classification?** Deferred until policy comprehension is proven.
+- **Carrier estimate parsing (Xactimate / Symbility / Simsol)** — second-most-valuable AI capability after policy comprehension; how reliable is line-item extraction?
+- **Long-term: do we need to fine-tune or train our own model?** Probably not for v1, but worth knowing the path.
+
+## Regulatory
+
+- **Which state is the strictest — and does our model survive there?** Workstream B answers this for FL first.
+- **Does "software tool" framing actually hold under scrutiny, or is there state-level case law that pierces it?**
+- **What's the disclaimer language pattern that's been tested?** TurboTax, LegalZoom, RocketLawyer — and what specifically got DoNotPay in trouble.
+- **Do we need outside counsel for Phase 1, or can we do the desk research first?** Decided: counsel engaged by Week 2 with desk research feeding into the memo. (See Section B §1.4)
+- **Florida-specific:** SB 2A, HB 837, AOB ban (HB 7065), FTSA — all directly shape product mechanics and partner economics. Covered in [15 - Software Build Plan.md](15%20-%20Software%20Build%20Plan.md).
+
+## Operational
+
+- **When do we actually need someone full-time?** Nights/weekends works for feasibility but won't scale to launch. Tie this to a clear funding/revenue trigger.
+- **What's the right Phase 1 budget?** Working assumption: $25–40k for Phase 1–2A infrastructure (LLM API, hosting, counsel, etc.) — source TBD. (See Section B §3.1)
+- **What's the cadence trigger for Phase 1 → Phase 2?** Specific deliverable acceptance (go/no-go on extraction accuracy) plus calendar date (June 16).
+
+---
+
+# Section B — Priority issues to raise with Paymon
+
+Not gotchas. These are things Eli and Lauren need answers to before committing to the aggressive August 1, 2026 launch, and most of them only Paymon can answer. Sequence by priority when you next meet.
 
 ## Priority 1 — Critical-path dependencies (block August 1 launch)
 
@@ -57,8 +118,6 @@ These directly determine whether the August 1 Florida launch is achievable. They
 - Are there any conflicts of interest (Noble-related representation)?
 - Is he willing to make the initial intro, or should Eli/Lauren handle the engagement directly?
 
----
-
 ## Priority 2 — Legal & IP risks (could materially constrain or end the venture)
 
 ### 2.1 Noble non-compete and IP assignment
@@ -104,8 +163,6 @@ These directly determine whether the August 1 Florida launch is achievable. They
 - Does he have relationships with anyone on the regulatory side (DFS, OIR) we should brief proactively?
 - Should we engage a lobbyist before launch, or wait until we have traction?
 
----
-
 ## Priority 3 — Financial & equity expectations
 
 ### 3.1 Cash investment vs. ownership
@@ -146,8 +203,6 @@ These directly determine whether the August 1 Florida launch is achievable. They
 - Comfortable with a three-way founder vote with Eli as tie-breaker on technology, Paymon as tie-breaker on industry/marketing, Lauren as tie-breaker on business/legal?
 - Or different structure?
 
----
-
 ## Priority 4 — Operational realities
 
 ### 4.1 Post-HB 837 attorney economics
@@ -187,8 +242,6 @@ These directly determine whether the August 1 Florida launch is achievable. They
 - Or is each state going to require fresh BD from cold?
 - How long did it take Noble to build the FL network? Is that a fair benchmark for new-state buildout?
 
----
-
 ## Priority 5 — Competitive intelligence
 
 ### 5.1 Bo's Turboax — current state
@@ -207,8 +260,6 @@ These directly determine whether the August 1 Florida launch is achievable. They
 - Who else is building anything adjacent? (Hover, EagleView, claim-management software vendors moving downstream into homeowner self-help)
 - Any startups he's aware of trying similar disruption?
 - Is anyone in the legaltech / insurtech space close to our positioning?
-
----
 
 ## Priority 6 — Brand & positioning
 
@@ -240,9 +291,76 @@ These directly determine whether the August 1 Florida launch is achievable. They
 
 ---
 
-## How to use this document
+# Section C — Playbook-capture working-session questions
 
-- **Before each Paymon meeting**, scan Priorities 1–3 and pick 2–4 items to raise
-- **Update answers** in this doc as they're resolved (move resolved items to a "Resolved" section)
-- **Don't ambush him** with the whole list in one meeting — these are real concerns and need real conversation, not a checklist sweep
-- **Lauren should see this doc before the next meeting** so she's not blindsided by anything sensitive (especially Section 2 legal items)
+These are interview questions for working sessions where the goal is to extract Paymon's claims expertise into product logic — decision trees, correspondence templates, deadline rules, evidence checklists, escalation patterns. Different use case than Section B (which is founder-level alignment). Use these to structure a 2–3 hour working session.
+
+## Claim workflow
+
+- For hurricane wind / roof damage, what are the first 10 questions a good desk adjuster asks?
+- What facts determine whether a claim is easy, medium, or complex?
+- What are the most common carrier lowball tactics?
+- What are the most common homeowner mistakes that hurt their claim?
+- What are the pre-litigation steps that must happen before an attorney can do anything useful?
+- Which steps are state-specific vs. generally reusable?
+
+## Policy interpretation
+
+- Which policy clauses matter most for wind / roof claims?
+- Which exclusions are most commonly misapplied by carriers?
+- Which endorsements change the outcome most often?
+- What are the top 10 clauses you would teach a new desk adjuster to find?
+- What would make an AI-generated policy summary dangerous or wrong?
+
+## Documentation and evidence
+
+- What photos are required for a strong claim?
+- What photos do homeowners usually forget?
+- When is a roofer estimate enough?
+- When is a third-party estimator / Matterport scan necessary?
+- What does a "proof of loss" package need to include?
+- What evidence makes the difference between a weak claim and a strong one?
+
+## Correspondence
+
+- What are the standard letters / emails in the workflow?
+- What language tends to move carriers?
+- What language should we avoid because it creates regulatory or legal risk?
+- How should the system document contact attempts?
+- What response deadlines matter?
+
+## Business model validation
+
+- Which 3–5 attorneys would you call first for a lead pre-commit?
+- Which 3–5 roofers / contractors would you call first?
+- What lead fields would those partners need to decide whether to pay?
+- What is a realistic lead value by category?
+- What did Noble historically pay in CAC for storm/disaster leads?
+
+## Regulatory / positioning
+
+- What states do you believe are most important for launch?
+- Which states are most hostile to public adjusting or claims assistance?
+- Where did Noble need certification most urgently?
+- What exactly can a non-PA say or not say in your experience?
+- What language would make you nervous if it appeared in the product?
+
+---
+
+# Section D — Items deferred from May 8 meeting
+
+Carryover from the May 8 meeting decisions, kept here as the authoritative record.
+
+- **Nagy partnership structure** — decided to revisit after internal discussion (NEEDS FURTHER DISCUSSION)
+- **Nagy compensation structure** — Lauren's action item; equity vs. contractor TBD
+
+---
+
+# How to use this document
+
+- **Before each Paymon meeting**, scan Section B priorities 1–3 and pick 2–4 items to raise
+- **Before each working session with Paymon**, scan Section C and pick the topic area for the session
+- **Update Section A** as the working venture-wide questions log
+- **Resolved items**: append a "Resolved (date)" tag rather than deleting — the history is useful
+- **Don't ambush Paymon** with the whole list in one meeting — these are real concerns and need real conversation, not a checklist sweep
+- **Lauren should see this doc before each meeting** so she's not blindsided by anything sensitive (especially Section B Priority 2 legal items)

@@ -1,54 +1,77 @@
 # Next Meeting Agenda
 
-Purpose: keep the next Paymon / Eli / Lauren meeting focused on Phase 1 inputs and decisions.
+> Purpose: keep the next Paymon / Eli / Lauren meeting focused on locking in the aggressive August 1, 2026 Florida concierge launch.
+
+For the full priority-sorted issues list, see [18 - Open Items, Questions, and Issues.md](18%20-%20Open%20Items%2C%20Questions%2C%20and%20Issues.md). This agenda pulls the highest-priority items into one meeting.
 
 ## Meeting goal
 
-Leave with enough clarity to start the technical feasibility study and schedule the first Paymon playbook session.
+Leave with: (1) a committed Phase 1 kickoff date, (2) Paymon's confirmed time commitment and policy delivery date, (3) a counsel engagement plan, and (4) initial partner pre-commit shortlist.
 
-## Proposed agenda
+## Pre-read for Lauren
 
-1. Confirm strategic framing
-   - Consumer self-service tool
-   - B2B lead-gen monetization
-   - Software tool, not representation
-   - Initial claim type / state focus
+Section B Priority 2 of [18 - Open Items, Questions, and Issues.md](18%20-%20Open%20Items%2C%20Questions%2C%20and%20Issues.md) covers legal/IP risks (Noble non-compete, IP assignment, PA license, industry hostility). Lauren should read these before the meeting so the discussion isn't an ambush.
 
-2. Choose the Phase 1 wedge
-   - Recommended: Florida hurricane wind / roof damage
-   - Confirm why this is the best first slice
-   - Identify what is explicitly out of scope
+## Proposed agenda (90 minutes)
 
-3. Gather inputs from Paymon
-   - 5-10 anonymized policies
-   - 3-5 carrier letters / estimates if available
-   - 2-3 hours for playbook capture
-   - Shortlist of launch partner conversations
+### 1. Strategic & timing alignment (10 min)
+- Confirm August 1, 2026 Florida concierge beta launch target
+- Confirm Florida-only, hurricane wind/roof only for the initial wedge
+- Confirm "software tool, not representation" regulatory posture
+- Confirm Paymon's understanding of the compressed 4-week Phase 1 sprint
 
-4. Discuss Nagy involvement
-   - Confirm feasibility role
-   - Confirm near-term compensation path under CRM Wizards
-   - Defer long-term equity details unless needed to unblock work
+### 2. Critical-path inputs from Paymon (30 min)
 
-5. Confirm feasibility deliverable
-   - Policy extraction prototype
-   - Accuracy / failure-mode report
-   - Regulatory boundary memo
-   - MVP scope and effort estimate
+Reference [18 § Section B Priority 1](18%20-%20Open%20Items%2C%20Questions%2C%20and%20Issues.md). Walk through:
 
-6. Set cadence
-   - Eli + Nagy working cadence
-   - Paymon playbook session
-   - Group readout date
+- **Policy delivery** — 5–10 anonymized FL policies by May 20, 2026. Confirmable today?
+- **Time commitment** — predictable weekly hours through August? When does he go all-in vs. side project?
+- **Partner pre-commits** — named shortlist, honest conversion likelihood, any conversations already had
+- **Outside counsel** — recommended FL insurance/TCPA attorney, any conflicts, who makes the intro
 
-## Decisions needed
+### 3. Legal & IP discussion (20 min)
 
-- Initial claim type
-- Initial launch state
-- Whether Paymon can provide anonymized policies
-- Whether Phase 1 includes regulatory desk research now or after the policy prototype
-- Who owns partner pre-commit conversations
+Reference [18 § Section B Priority 2](18%20-%20Open%20Items%2C%20Questions%2C%20and%20Issues.md). Walk through:
+
+- Noble non-compete and IP assignment status
+- Use of Noble materials policy (recommend: nothing from Noble enters the venture)
+- FL PA license status and whether he stays public-facing or quiet on brand
+- Florida industry hostility risk
+
+This is the most sensitive section. Lead with curiosity, not interrogation.
+
+### 4. Financial & equity (15 min)
+
+Reference [18 § Section B Priority 3](18%20-%20Open%20Items%2C%20Questions%2C%20and%20Issues.md). Walk through:
+
+- Infrastructure cash needs ($25–40k for Phase 1–2A); funding source
+- Marketing budget for August launch and who funds initial ad spend
+- Equity split expectations
+- Decision-making authority structure
+
+### 5. Operational reality check (10 min)
+
+Reference [18 § Section B Priority 4](18%20-%20Open%20Items%2C%20Questions%2C%20and%20Issues.md). Walk through:
+
+- Post-HB 837 attorney economics — what is he hearing today?
+- Post-AOB-ban roofer economics
+- Citizens insurer-specific playbook depth
+
+### 6. Wrap (5 min)
+- Confirm action items and owners
+- Confirm next meeting date (recurring cadence)
+- Confirm playbook capture session date (separate working session)
+
+## Decisions needed by end of meeting
+
+- [ ] August 1 launch target confirmed by all three founders
+- [ ] Paymon confirms policy delivery by May 20 (or names alternative date)
+- [ ] Paymon confirms weekly time commitment (hours / cadence)
+- [ ] Paymon names initial 3–5 partner pre-commit targets
+- [ ] Counsel engagement path decided (who, when, intro by whom)
+- [ ] Infrastructure cash funding source decided (or named action item)
+- [ ] Date for the Paymon playbook-capture working session set
 
 ## Suggested close
 
-"If the policy extraction prototype fails, we pause. If it works, we use that output to scope MVP and move into partnership / business-structure talks."
+"If Paymon delivers policies by May 20, we engage counsel by May 27, and partner pre-commits land by mid-July, we have a credible shot at an August 1 Florida launch. Any of those slips, we adjust the launch date — but we don't slip the rigor."
